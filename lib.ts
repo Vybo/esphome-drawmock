@@ -212,3 +212,4 @@ export function id<T>(el : T) : T {return el;}
 
 export const COLOR_OFF = "white"
 export const COLOR_ON = "black"
+export const COLOR_GRAY = "darkgray"
